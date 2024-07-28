@@ -1,4 +1,4 @@
-#### Notes App - HTML, CSS, and JavaScript Project
+# Notes App - HTML, CSS, and JavaScript Project
 
 Welcome to the Notes App project! This web application allows users to create, organize, and manage their notes efficiently.
 
